@@ -128,7 +128,7 @@ https://osmocom.org/projects/cellular-infrastructure/wiki/Latest_Builds
 Este repositorio contiene los archivos de configuración básicos y los scripts auxiliares necesarios para nuestra configuración. Clónelo usando Git.
 
 ```bash
-git clone git@github.com:miraliumre/gsm.git
+git clone git@github.com:undefined-name12/GSM-limesdr.git
 ```
 
 ### Personalizar la configuración
